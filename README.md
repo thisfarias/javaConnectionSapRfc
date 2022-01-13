@@ -1,4 +1,4 @@
-<h1>Java and SAP connection via SAP ABAP RFC</h1>
+<h1>Java and SAP connection for SAP ABAP RFC</h1>
 
 <h2>Purpose (Propósito)</h2>
 <p><b>English: </b>This project aims to create a java code that is able to integrate with a SAP RFC, developed by me in the ABAP language</p>
